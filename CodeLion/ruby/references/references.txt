@@ -1,0 +1,11 @@
+[Hash]
+https://ruby-doc.org/core-2.7.0/Hash.html
+
+[Array]
+https://ruby-doc.org/core-2.4.1/Array.html
+
+[배열,해쉬]
+https://www.opentutorials.org/module/517/4589
+
+[gets.chomp]
+https://www.rubyguides.com/2019/10/ruby-chomp-gets/

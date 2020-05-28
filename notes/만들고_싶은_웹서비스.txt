@@ -1,0 +1,12 @@
+[쉽게 쓰는 메모앱 - MeMoMe] 
+
+"Writing things down helps us remember the important stuff, and that the better our notes are the more likely we are to remember."
+글을 적어두는 습관은 중요한 내용을 기억하는 데 도움이되며, 메모를 잘할수록 기억할 가능성이 높아집니다.
+
+사람들은 평생 수억 개의 글자를 적어가며 살아갑니다 (https://www.quora.com/How-many-words-do-we-say-in-a-lifetime). 90년도엔 종이에 수필로, 현대사회에선 스마트폰의 메모앱을 통해 주로 메모를 하는데, 이것이 반복되다 보면 셀수없는 메모장이 쌓이게 됩니다. 이것을 쉽게 정리하고 다양하고 유용한 기능을 사용할수 있는 MeMoMe 라는 웹 앱을 개발하고싶습니다.
+
+Main features: 
+- 날짜(해, 달, 일) / 주제 별로 구분화
+- 3일 동안만 저장 후 삭제 (기억력 향상)
+- 푸쉬 알림기능
+- 구글/네이버/카카오 로그인을 통해 계정 동기화
